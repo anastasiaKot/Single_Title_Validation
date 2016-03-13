@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/ana.shpak/Single_Title_Validation/.metadata/.plugins/org.eclipse.jdt.core
